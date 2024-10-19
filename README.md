@@ -1,6 +1,6 @@
 ## Image in project
 
-![Alt text](project.png "Soumya") 
+![Alt text](png.png "Soumya") 
 
 
 ## Follow me for more free codes
