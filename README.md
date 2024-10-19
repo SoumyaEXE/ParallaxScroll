@@ -1,6 +1,6 @@
 ## Image in project
 
-![Alt text](png.png "") 
+![Alt text](img/png.png "") 
 
 
 ## Follow me for more free codes
