@@ -1,5 +1,3 @@
-## Image in project
-
 ![Alt text](img/png.png "") 
 
 
